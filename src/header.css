@@ -1,0 +1,22 @@
+.header{
+    background-color: #1e201e;
+    display: flex;
+    flex: 1;
+height: 60px;
+position: sticky;
+background-attachment: fixed;
+}
+.house{
+  height: 200px;
+    color: white;
+    /* display: flex; */
+    object-fit: contain;
+    margin: 0 20px;
+    margin-top: 28px;
+    /* fontpx; */
+}
+.btn{
+    font-size: 20px;
+      margin-top: 16px;
+      color: white;
+}
